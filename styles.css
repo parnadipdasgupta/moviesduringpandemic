@@ -1,0 +1,88 @@
+.col-lg-3
+{
+    padding: 20px;
+}
+.card
+{
+    padding:10px;
+    height: calc(100% - 20px);
+}
+.row
+{
+    margin: 0px;
+    padding: 30px;
+}
+body
+{
+    background-image: url("https://thewallpaper.co//wp-content/uploads/2016/02preview/artwork-amazing-wallpapers-widescreen-photos-hd-background-colors-windows-wallpaper-macbook-desktop-images-1805x1015.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+@media only screen and (max-width: 768px)
+{
+    iframe
+    {
+        width: calc(100% - 10px);
+        height: 35vh;
+        margin: 5px;
+    }
+    .col-lg-3
+    {
+        padding: 10px;
+    }
+    .row
+    {
+        margin: 0px;
+        padding: 10px;
+    }
+}
+.middle
+{
+    text-align: center;
+}
+#headimg
+{
+    width: calc(100% - 60px);
+    margin: 30px;
+}
+.card-title
+{
+    color: DodgerBlue;
+}
+.moviename
+{
+    color: DarkSlateGray;
+}
+.home
+{
+    color: Indigo;
+}
+.blinking
+{
+    color: Crimson;
+}
+#ourstory
+{
+    margin: 50px;
+}
+#aboutus
+{
+    line-height: 150%;
+}
+.about
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+.field
+{
+    margin: 30px;
+    color: Crimson;
+}
+.data
+{
+    margin: 10px;
+    color: Navy;
+}
