@@ -4,7 +4,7 @@ function greet()
 
     if (name === 'KuchuPu')
     {
-        document.querySelector('#aboutus').innerHTML = 'Hello, my dearest girlfriend, I have really enjoyed watching these movies with you. Many more to come. This page will help you remember and relive those beautiful moments together. Love Love. <3'
+        document.querySelector('#aboutus').innerHTML = 'Hello, my dearest girlfriend, I have really enjoyed watching these movies with you. Many more to come. This page will help you remember and relive those beautiful moments together. Love Love. ❤❤❤'
     }
     else
     {
